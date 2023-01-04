@@ -1,4 +1,4 @@
-def fib_sum():
+def problem2():
     sum = 0
     first_dig = 1
     sec_dig = 0
@@ -16,4 +16,4 @@ def fib_sum():
     print(sum)
 
 if __name__ == '__main__':
-    fib_sum()
+    problem2()
